@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+p {
+    transition: all 0.3s ease-in-out;
+}
+.cuadro1{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    transition: all 0.3s ease-in-out;
+}
+.cuadro2{
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    transition: all 0.3s ease-in-out;
+}
+.cuadro3{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    transition: all 0.3s ease-in-out;
+}
+.cuadroAlternativo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: rgb(0, 102, 128);
+}
